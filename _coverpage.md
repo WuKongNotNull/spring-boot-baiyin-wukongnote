@@ -1,5 +1,5 @@
 
-<img src='images/wukong-favicon-nobg.png' width='100px'/>
+<img src='images/wukong-favicon-nobg.png' width='110px'/>
 
 # Spring Boot 白银篇 <small>青铜篇续</small>
 
